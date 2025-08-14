@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 **Data Analyts**
 
 - 💬 Ask me about **Sql,Power Bi, Excel,Python**
 
