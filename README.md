@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Shirsat</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ftechnology-cartoon&psig=AOvVaw0Nf5gBfgrU5R1jm-NhjKlW&ust=1755289723492000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCE9vWRi48DFQAAAAAdAAAAABAE">
+
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **Data Analytics**
 
